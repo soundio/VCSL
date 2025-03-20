@@ -1,3 +1,9 @@
+# Syncing to sound.io samples on s3
+
+```
+make sync
+```
+
 # VCSL
 ![logo](https://github.com/sgossner/VCSL/raw/master/Assets/VCSL_Color_128x128.png "VCSL Logo")
 
