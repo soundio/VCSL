@@ -1,5 +1,7 @@
 {
-    "name": "Upright Piano – Knight",
+    "name": "Knigh Upright Piano",
+    "library": "VCSL",
+    "author": "Versilian Studios LLC",
     "regions": [
         { "url": "./Chordophones/Zithers/Upright Piano, Knight/Sustains/Player_vl1_rr1_A-1.wav", "urlloq": "./Chordophones/Zithers/Upright Piano, Knight/Sustains/Player_vl1_rr1_A-1.m4a", "frequency": "A-1", "gain": 1, "attack": 0, "release": 0.5, "noterange": [0,0,10,12],   "gainrange": [0, 0, 0.25, 0.5] },
         { "url": "./Chordophones/Zithers/Upright Piano, Knight/Sustains/Player_vl2_rr1_A-1.wav", "urlloq": "./Chordophones/Zithers/Upright Piano, Knight/Sustains/Player_vl2_rr1_A-1.m4a", "frequency": "A-1", "gain": 1, "attack": 0, "release": 0.5, "noterange": [0,0,10,12],   "gainrange": [0.25, 0.5, 1, 1] },

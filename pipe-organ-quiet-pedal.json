@@ -1,5 +1,7 @@
 {
-    "name": "Pipe Organ – Quiet Pedal",
+    "name": "Pipe Organ Quiet Pedal",
+    "library": "VCSL",
+    "author": "Versilian Studios LLC",
     "regions": [
         { "url": "./Aerophones/Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C1_rr1.wav",    "urlloq": "./Aerophones/Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C1_rr1.m4a",    "frequency": "C1",  "gain": 1, "attack": 0, "release": 0.1, "noterange": [12, 25], "loopStart": 2.000000, "loopEnd": 4.997778 },
         { "url": "./Aerophones/Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D%231_rr1.wav", "urlloq": "./Aerophones/Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D%231_rr1.m4a", "frequency": "D#1", "gain": 1, "attack": 0, "release": 0.1, "noterange": [26, 28], "loopStart": 2.000000, "loopEnd": 5.008571 },

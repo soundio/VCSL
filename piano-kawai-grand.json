@@ -1,5 +1,7 @@
 {
-    "name": "Grand Piano – Kawai",
+    "name": "Kawai Grand Piano",
+    "library": "VCSL",
+    "author": "Versilian Studios LLC",
     "regions": [
         { "url": "./Chordophones/Zithers/Grand Piano, Kawai/Sustains/GPiano_sus_C0_v1_rr1_Player.wav",    "urlloq": "./Chordophones/Zithers/Grand Piano, Kawai/Sustains/GPiano_sus_C0_v1_rr1_Player.m4a",    "frequency": "C1",  "gain": 1, "attack": 0, "release": 0.12, "noterange": [0,0,26,28],     "gainrange": [0, 0, "-24dB", "-20dB"] },
         { "url": "./Chordophones/Zithers/Grand Piano, Kawai/Sustains/GPiano_sus_C0_v2_rr1_Player.wav",    "urlloq": "./Chordophones/Zithers/Grand Piano, Kawai/Sustains/GPiano_sus_C0_v2_rr1_Player.m4a",    "frequency": "C1",  "gain": 1, "attack": 0, "release": 0.12, "noterange": [0,0,26,28],     "gainrange": ["-24dB", "-20dB", "-16dB", "-12dB"] },

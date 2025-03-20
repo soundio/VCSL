@@ -1,5 +1,7 @@
 {
-    "name": "Grand Piano – Steinway B",
+    "name": "Steinway B Grand Piano",
+    "library": "VCSL",
+    "author": "Versilian Studios LLC",
     "regions": [
         { "url": "./Chordophones/Zithers/Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A%230_vl2_rr1.wav", "urlloq": "./Chordophones/Zithers/Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G%230_vl2_rr1.m4a", "frequency": "A#0", "gain": 1, "attack": 0, "release": 0.8, "noterange": [0,0,22,23],    "gainrange": [0, 0, "-20dB", "-14dB"] },
         { "url": "./Chordophones/Zithers/Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A%230_vl3_rr1.wav", "urlloq": "./Chordophones/Zithers/Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G%230_vl3_rr1.m4a", "frequency": "A#0", "gain": 1, "attack": 0, "release": 0.8, "noterange": [0,0,22,23],    "gainrange": ["-20dB", "-14dB", "-8dB", "-2dB"] },

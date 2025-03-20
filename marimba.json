@@ -1,5 +1,7 @@
 {
     "name": "Marimba",
+    "library": "VCSL",
+    "author": "Versilian Studios LLC",
     "regions": [
         { "url": "./Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_F1_soft_01.wav", "urlloq": "./Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_F1_soft_01.m4a",  "frequency": "F1", "gain": 1, "attack": 0, "release": 0.5, "noterange": [0,  32], "gainrange": [0, 0, 0.15, 0.3] },
         { "url": "./Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_F1_med_01.wav",  "urlloq": "./Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_F1_med_01.m4a",   "frequency": "F1", "gain": 1, "attack": 0, "release": 0.5, "noterange": [0,  32], "gainrange": [0.15, 0.3, 0.6, 0.75] },
