@@ -1,0 +1,13 @@
+{
+    "name": "Wine Glasses",
+    "regions": [
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass1_D%234_Slow_1_Main.wav", "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass1_D%234_Slow_1_Main.m4a", "frequency": "D#4", "gain": 1, "attack": 0, "release": 0.5, "noterange": [61, 66], "gainrange": [0, 0.333333333] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass1_D%234_Fast_1_main.wav", "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass1_D%234_Fast_1_main.m4a", "frequency": "D#4", "gain": 1, "attack": 0, "release": 0.5, "noterange": [61, 66], "gainrange": [0.333333333, 1] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass2_F%234_Slow_1_Main.wav", "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass2_F%234_Slow_1_Main.m4a", "frequency": "F#4", "gain": 1, "attack": 0, "release": 0.5, "noterange": [64, 69], "gainrange": [0, 0.333333333] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass2_F%234_Fast_1_Main.wav", "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass2_F%234_Fast_1_Main.m4a", "frequency": "F#4", "gain": 1, "attack": 0, "release": 0.5, "noterange": [64, 69], "gainrange": [0.333333333, 1] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass3_A%234_Slow_1_Main.wav", "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass3_A%234_Slow_1_Main.m4a", "frequency": "A#4", "gain": 1, "attack": 0, "release": 0.5, "noterange": [67, 72], "gainrange": [0, 0.333333333] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass3_A%234_Fast_1_Main.wav", "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass3_A%234_Fast_1_Main.m4a", "frequency": "A#4", "gain": 1, "attack": 0, "release": 0.5, "noterange": [67, 72], "gainrange": [0.333333333, 1] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass4_D5_Slow_2_Main.wav",    "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Slow/glass4_D5_Slow_2_Main.m4a",    "frequency": "D5",  "gain": 1, "attack": 0, "release": 0.5, "noterange": [70, 75], "gainrange": [0, 0.333333333] },
+        { "url": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass4_D5_Fast_1_Main.wav",    "urlloq": "./Idiophones/Friction Idiophones/Wine Glasses/Sustains/Fast/glass4_D5_Fast_1_Main.m4a",    "frequency": "D5",  "gain": 1, "attack": 0, "release": 0.5, "noterange": [70, 75], "gainrange": [0.333333333, 1] }
+    ]
+}
