@@ -1,5 +1,7 @@
 # Syncing to sound.io samples on s3
 
+Create .m4a copies of all .wav files in the same locations. Then:
+
 ```
 make sync
 ```
