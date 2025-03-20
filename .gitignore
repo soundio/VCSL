@@ -81,4 +81,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Generated mp4 files for sound.io
-*/m4a
+*.m4a
